@@ -1,0 +1,458 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav-item a:hover{
+  border-bottom: 2px solid white;
+}
+#active{
+  border-bottom: 2px solid white;
+}
+@media screen and (max-width: 1100px) {
+  #example {
+    display: none;
+  }
+}
+
+#home{
+  margin: 5rem;
+}
+#btn01{
+  border-radius: 0rem; 
+  background: linear-gradient(90deg, #BDC3C7,#767A7C);
+  padding: 1rem 1.8rem;
+}
+#btn02{
+  border: 2px solid gray; 
+  color: white; 
+  margin: 10px; 
+  border-radius:0rem;
+  padding: 1rem 2.5rem;
+}
+@media screen and (min-width: 768px) {
+  .about-para-mb {
+    display: none;
+  }
+  .launch-your{
+    display: none;
+  }
+  #DDS01{
+    display: none;
+  }
+  #coffee-div01{
+    display: none;
+  }
+  #Get-btn-MB{
+    display: none;
+  }
+  #connect-with{
+    display: none;
+    }
+  #grow-business{
+    display: none;
+  }
+  #free-cons-div{
+    display: none;
+  }
+}
+      /* MORE ABOUT US  */
+.more-about-us
+{
+  color: white; 
+  font-size: 1rem;
+  margin-left: 5rem;
+ 
+}
+    
+.grow-your{
+  color: white; 
+  font-size: 3rem;
+  margin-left: 5rem;
+}
+
+#DDS-body{
+  background-color: #171717; 
+  margin: 5rem;
+}
+#Transform-your{
+  font-size: 2rem;
+  color: white;
+  margin: 5rem 4rem 1rem 3rem;
+  text-transform: uppercase;
+}
+
+#Crafting{
+  color:#adb5bd; 
+  opacity: 80%; 
+  margin-left: 3rem;
+}
+#DDS-image{
+  width: 35rem; 
+  margin-top: 3rem;
+}
+
+#DDS-ul li{
+  list-style: none; 
+  color:white;
+  margin: 1rem 0rem 0.5rem 1rem;
+}
+#DDS-ul li span{
+  margin-right: 1rem;
+}
+
+#btn03{
+  font-size: 1.2rem;
+  color: white;
+  border-radius: 0rem; 
+  background-color: #393B3C;
+  margin: 1rem 0rem 4rem 3rem ; 
+  padding: 0.8rem 2rem;
+}
+
+/* About me  */
+
+#about-body{
+  background-color: #171717; 
+  margin: 1rem 5rem 4rem 5rem;
+}
+
+#about-part1{
+  margin: 5rem 0rem 2rem 0rem;
+}
+#about-p1{
+  color: #e6e6e6; 
+  margin:0rem 3rem 2.5rem 3rem ;
+}
+#Our-Founder{
+  color: #e6e6e6; 
+  margin: 0rem 4rem 1rem 3rem; 
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+#Im-a{
+  color: #e6e6e6; 
+  opacity: 80%; 
+  margin-left: 3rem;
+}
+
+#card-about-btn{
+  margin: 6rem 0rem 3rem 3rem;
+}
+
+#hire-me-btn{
+  padding:1.1rem 5rem 1.1rem 5rem ; 
+  border-radius: 0rem; 
+  background: linear-gradient(90deg, #BDC3C7,#767A7C);
+}
+
+#see-my-btn{
+  border: 2px solid gray; 
+  color: white; 
+  margin: 10px; 
+  border-radius:0rem;
+  padding:1.1rem 3rem 1.1rem 3rem ; 
+}
+
+/* Contact Us   */
+
+#contact-us{
+  background-color: #171717; 
+  margin: 1rem 0rem 3rem 0rem;
+}
+#contact-div01{
+  margin: 5rem 0rem 0rem 5rem;
+}
+
+#contact-p{
+  color: #e6e6e6; 
+  margin:0rem 0rem 3rem 3rem ;
+}
+#get-in{
+  color: #e6e6e6; 
+  margin: 0rem 0rem 1rem 3rem; 
+  font-weight: 600;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+#contact-transform{
+  color: #e6e6e6; 
+  opacity: 80%; 
+  margin-left: 3rem;
+}
+#contact-btn-div{
+  margin-left: 3rem;
+}
+#contact-us-btn{
+  padding:1.1rem 5rem 1.1rem 5rem ; 
+  border-radius: 0rem; 
+  background: linear-gradient(90deg, #BDC3C7,#767A7C);
+}
+
+#contact-image{
+  width: 20rem; 
+  margin: 5rem 0rem 5rem 0rem;
+  
+}
+
+    /* Plans section */
+    #plans-p01{
+      text-align: center;
+      color: white;
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 0rem;
+    }
+
+    #plans-p02{
+      color: white;
+      text-align: center;
+      font-size: 1rem;
+    }
+
+    #plans-div{
+      margin-left: 5rem; 
+      margin-right: 5rem;
+    }
+    #plans-card{
+      background-color: #222222; 
+      color:#e6e6e6;
+    }
+    #Stand-div{
+      display: flex; 
+      justify-content: space-between; 
+      margin: 2rem 0rem 0rem 2rem;
+    }
+
+    #stand-p01{
+      font-weight: 500; 
+      font-size:2rem;
+    }
+    #stand-p02{
+      font-size: 0.8rem;
+    }
+
+    #All-Features-div{
+      margin-right: .9rem;
+    }
+
+    #All-Features-p{
+      margin-left: 2rem; 
+      text-decoration: underline; 
+      font-size: 1.3rem;
+    }
+    #All-Features-ul {
+      list-style: none; 
+      margin-bottom: 10rem; 
+      font-size: .8rem;
+    }
+ 
+      
+       /* Free Consultration */
+
+       #Free-Consul{
+        position: relative; 
+        background-color: #171717; 
+        margin: 5rem 5rem 5rem 5rem;
+       }
+
+       #Free-Consul-p1{
+        color: #e6e6e6; 
+        margin:4rem 3rem 2rem 1rem;
+       }
+       #Free-Consul-p2{
+        color: #e6e6e6; 
+        margin: 0rem 4rem 1.5rem 1rem; 
+        font-weight: 600;
+        font-size: 2rem;
+       }
+       #Free-Consul-p2{
+        color: #e6e6e6; 
+        opacity: 80%; 
+        margin-left: 1rem;
+       }
+       #Free-Consul-p3{
+        color: #e6e6e6; 
+        margin-left: 1rem;
+       }
+
+       #Claim-Your-p{
+        color: #e6e6e6; 
+        margin: 0rem 4rem 1rem 1rem; 
+        font-weight: 600;
+        font-size: 2rem;
+       }
+       #Claim-Your-p1{
+        color: #e6e6e6; 
+        opacity: 80%; 
+        margin-left: 1rem;
+       }
+
+       #Free-Consul-img{
+        position:absolute; 
+        width: 28rem; 
+        bottom: 7rem; 
+        right: 5rem; 
+        z-index: 9;
+       }
+
+       #GET-STARTED{
+            padding:1.1rem 5rem 1.1rem 3rem ; 
+            border-radius: 0rem; 
+            background: linear-gradient(90deg, #BDC3C7,#767A7C);
+            margin-left: 1rem;
+       }
+       /* footer section  */
+    #footer-ul{
+      display: flex;
+      margin-top: 3rem;
+      list-style-type: none;
+    }
+    #footer-ul li a{
+      text-decoration: none;
+      color: white;
+      margin: 1rem;
+    }
+    #Copyright{
+      color: white;
+    }
+    #Terms{
+      display: flex;
+      color: white;
+      margin-left: 18rem;
+    }
+    #Terms-p1{
+      margin-right: 1.5rem;
+    }
+      /* Mobile responsive  */
+
+  @media screen and (max-width: 600px) {
+    #example1 {
+      display: none;
+    }
+  }
+
+/* Body part  */
+  body{
+    background-color: #030303;
+  }
+
+
+  /* part-1  */
+  .card{
+    background-color: #030303;
+  }
+#btn-about1{
+    font-size:medium;
+    font-weight: bold;
+    font-family: Quicksand;
+    text-decoration: none;
+    color: white;
+    background-color: lightgray;
+    padding: 1.1rem 1.7rem 1.1rem 1.7rem;
+    
+}
+#btn-about2{
+    font-size:medium;
+    font-weight: bold;
+    font-family: Quicksand;
+    margin-left: 1rem;
+    border: 2px solid gray;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.icon{
+    font-size: 0.8rem;
+    margin-left: 0.5rem;
+}
+.about-para{
+    font-size: 2.2rem;
+    font-weight:500;
+    color: white;
+    text-transform:uppercase;
+}
+.about-para2{
+    color: white;
+    font-size: small;
+    font-weight: 100;
+    
+}
+/* carousel section  */
+.right-carousel, .left-carousel{
+  color: black;
+  padding:0.3rem 0.7rem 0.3rem 0.7rem;
+  background-color: white;
+  opacity: 1;
+  /* width: 25px;
+  height: 25px; */
+  border-radius: 50%;
+}
+.carousel-control-next, .carousel-control-prev{
+  opacity: 1;
+}
+
+ /* play button  */
+.play-btn{
+  margin-left: 3rem; 
+  border: 1px solid white;
+  border-radius: 20% 20% 20% 20% / 50% 50% 50% 50% ;
+  padding:6px 20px 6px 20px;
+  width: 7rem;
+}
+
+/* footer section */
+.social-media{
+  margin: 1rem 0rem 3rem 0rem ;
+ display: flex; justify-content: space-between;
+ width: 13rem;
+}
+.fa-facebook-f,.fa-twitter, .fa-linkedin-in, .fa-pinterest-p{
+  height: 1.5rem;
+  width: 1.5rem;
+  color: white;
+  background-color: #1b170c;
+  padding: 10px;
+  border-radius: 10%;
+  font-size: 1.2rem;
+
+}
+
+
+/* part 02 case studies  */
+
+.case-para{
+  font-size: 2.5rem;
+    font-weight:500;
+    color: white;
+    margin-bottom: 1rem;
+    text-transform:uppercase;
+}
+
+/* design 03 part  */
+.design-para{
+  font-size: 2.5rem;
+  font-weight:500;
+  color: white;
+  margin-bottom: 1rem;
+  text-transform:capitalize;
+}
+.design-para03{
+  color: white;
+  font-size: small;
+  font-weight: 100;
+  line-height: 25px;
+}
+
+/* Blogs section  */
+#blogs{
+  background-image:url(../Image/bgimage.png);
+  width: 1180px;
+  height: 463px;
+  background-repeat: no-repeat;
+  margin: 2rem 0rem 3rem 5rem;
+}
+

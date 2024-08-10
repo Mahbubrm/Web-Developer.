@@ -1,0 +1,338 @@
+/* index mobile responsive  */
+.about-para{
+    display: none;
+}
+.about-para-mb{
+    font-size: 1.8rem;
+    font-weight:500;
+    color: white;
+    text-transform:uppercase;
+}
+.about-para2{
+    font-size: 1rem;
+}
+#home{
+    margin: 0rem;
+}
+
+.about-para2 br {
+   display: none;
+}
+
+#btn01{
+    padding: 1rem 1.8rem;
+}
+
+#btn02{
+    padding: 1rem 2.4rem 1rem 2rem;
+}
+
+ /* MORE ABOUT US  */
+
+ .more-about-us{
+    font-size: 0.8rem;
+    text-decoration: underline 2px;
+    text-underline-offset: 0.5rem;
+    margin: 2rem 2rem;
+ }
+ .grow-your{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+ }
+ .launch-your{
+    color: gray; 
+    font-size: 0.8rem;
+    margin-left: 2rem;
+ }
+
+ #DDS-body{
+    background-color: #171717; 
+    margin: 2rem;
+ }
+ #Transform-your{
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    color: white;
+    margin: 2rem 2rem 1rem 2rem;
+  }
+    #Transform-your br{
+    display: none;
+  }
+    #Crafting br{
+    display: none;
+    }  
+    #Crafting 
+        {
+        font-size: 0.8rem;
+        margin: 0rem 2rem 0rem 2rem;
+        }
+ #DDS-image{
+    margin: 0rem;
+    width: 100%;
+ }
+
+ #DDS02{
+display: none;
+ }
+
+ #btn03{
+    margin: 1rem 0rem 4rem 3rem ; 
+    padding: 0.8rem 2rem;
+  }
+/* About me  */
+
+#about-body{
+   background-color: #171717; 
+   margin: 2rem;
+ }
+ 
+ #about-p1{
+   margin:0rem 3rem 2rem 2rem ;
+   text-decoration: underline 2px;
+   text-underline-offset: 0.5rem;
+ }
+
+ #Our-Founder{
+   color: #e6e6e6; 
+   margin: 0rem 4rem 1rem 2rem; 
+   font-weight: 600;
+   text-transform: uppercase;
+   font-size: 1.5rem;
+ }
+
+ #Im-a{
+ font-size: 0.8rem ;
+  color: #e6e6e6; 
+  opacity: 80%; 
+  margin: 0rem 1rem 2rem 2rem;
+
+ }
+ #Im-a br{
+   display: none;
+  }
+
+ #card-about-btn{
+   margin: 0rem 0rem 2rem 0.6rem;
+ }
+ #Get-btn-MB{
+   padding:0.8rem 2.8rem 0.8rem 2.8rem ; 
+   border-radius: 0rem; 
+   background: linear-gradient(90deg, #BDC3C7,#767A7C);
+ }
+ #see-my-btn{
+   border: 2px solid gray; 
+   color: white; 
+   border-radius:0rem;
+   padding:0.8rem 1rem 0.8rem 1rem ; 
+   
+ }
+
+ #hire-me-btn{
+   display: none;
+ }
+ 
+ 
+ #coffee-div02{
+   display: none;
+ }
+
+ .social-media-mb
+ {
+   margin: 1rem 0rem 3rem 0rem ;
+   display: flex; justify-content: space-between;
+   width: 15rem;
+ }
+
+ #social-media-mb{
+   height: 1.5rem;
+   width: 1.5rem;
+   color: white;
+   background-color:#242424;
+   padding: 10px;
+   border-radius: 10%;
+ }
+
+
+ /* Contact us  */
+
+ #contact-us{
+   background-color: #171717; 
+   margin: 0rem 0rem 2rem 0rem;
+ }
+ #contact-div01{
+   margin: 2rem 0rem 0rem 0rem;
+ }
+ 
+ #contact-p{
+   color: #e6e6e6; 
+   margin:0rem 0rem 3rem 1rem ;
+ }
+ #get-in{
+   color: #e6e6e6; 
+   margin: 0rem 7rem 1rem 1rem; 
+   font-weight: 100;
+   font-size: 1.5rem;
+   text-transform: capitalize;
+ }
+ #get-in br{
+   display: none;
+ }
+ #contact-transform{
+   width: 70%;
+   font-size: 0.7rem;
+   color: #e6e6e6; 
+   opacity: 80%; 
+   margin-left: 1rem;
+ }
+ #contact-transform br{
+   display: none;
+ }
+ #contact-btn-div{
+   margin: 1rem 0rem 2rem 1rem;
+ }
+ #contact-us-btn{
+   padding:1.1rem 5rem 1.1rem 5rem ; 
+   border-radius: 0rem; 
+   background: linear-gradient(90deg, #BDC3C7,#767A7C);
+ }
+
+ #contact-image{
+   width: 26rem;
+   margin: 0rem 0rem 2.5rem 1rem;
+   position: relative;
+ }
+ #grow-business{
+   margin-left: 1rem;
+   width: 29.2rem;
+   height: 11.5rem;
+   position: absolute;
+   bottom:-210rem;
+   right: 1.1rem;
+   z-index: 9;
+ }
+
+   /* Plans section */
+
+    #plans-div{
+      margin: 2rem 2rem 2rem 2rem;
+
+    }
+    #plans-card{
+      background-color: #222222; 
+      color:#e6e6e6;
+    }
+    #Stand-div{
+      display: flex; 
+      justify-content: space-between; 
+      margin: 2rem 0rem 0rem 2rem;
+    }
+
+    #stand-p01{
+      font-weight: 500; 
+      font-size:2rem;
+    }
+    #stand-p02{
+      font-size: 0.8rem;
+    }
+
+    #All-Features-div{
+      margin-right: .9rem;
+    }
+
+    #All-Features-p{
+      margin-left: 2rem; 
+      text-decoration: underline; 
+      font-size: 1.3rem;
+    }
+    #All-Features-ul {
+      list-style: none; 
+      margin-bottom: 10rem; 
+      font-size: .8rem;
+    }
+
+   #pro-div{
+      margin-top: 2rem;
+   }
+
+   #premium-div{
+      margin-top: 2rem;
+   }
+
+   /* Free Consultration  */
+
+   #Free-Consul{
+      position: relative; 
+      background-color: #171717; 
+      margin: 2rem;
+     }
+
+     #Free-Consul-p1{
+      font-size: 1rem;
+      color: #e6e6e6; 
+      margin:2rem 0rem 1rem 1rem;
+      text-decoration: underline 2px;
+      text-underline-offset: 8px;
+     }
+     #Free-Consul-p2{
+      color: #e6e6e6; 
+      margin: 0rem 4rem 1.5rem 3rem; 
+      font-weight: 600;
+      font-size: 2rem;
+     }
+     #Free-Consul-p2{
+      color: white; 
+      margin-left: 1rem;
+      font-size: 1.4rem;
+     }
+     #Free-Consul-p3{
+      color: #e6e6e6; 
+      margin-left: 1rem;
+      font-size: 0.85rem;
+     }
+     #Free-Consul-p3 br{
+      display: none;
+     }
+     #Claim-Your{
+      display: none;
+     }
+     #Free-img-div{
+      display: none;
+     }
+     #free-cons-div{
+      border: 2px solid white;
+     }
+     #free-cons-img-mb{
+      width: 23rem;
+      margin: 0.7rem;
+     }
+     #GET-STARTED-mb{
+      padding:0.8rem 3rem 0.8rem 3rem ; 
+      border-radius: 0rem; 
+      background: linear-gradient(90deg, #BDC3C7,#767A7C);
+      margin: 0rem 0rem 2rem 1rem;
+ }
+
+ /* footer section  */
+
+ #footer-ul{
+   display: flex;
+   margin: 0rem;
+   padding: 0;
+   list-style-type: none;
+   
+ }
+ #footer-ul li a{
+   text-decoration: none;
+   color: white;
+   margin: 0.8rem;
+   font-size: 0.7rem;
+ }
+
+ #Copyright{
+   font-size: 0.7rem;
+ }
+ #Terms{
+   display: none;
+
+ }
+ 
